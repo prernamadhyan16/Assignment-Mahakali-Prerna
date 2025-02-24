@@ -35,7 +35,6 @@ This **Add New Product** page is a part of a larger **product management system*
 | **React.js** | Frontend framework |
 | **Zustand** | State management |
 | **MUI** (Material UI) | UI Components |
-| **Multer** | Image upload handling |
 | **React.memo & useCallback** | Performance optimizations |
 | **React-use-gesture** | Drag and Drop (to be implemented) |
 
